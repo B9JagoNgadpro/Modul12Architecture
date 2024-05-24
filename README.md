@@ -10,3 +10,11 @@ Berikut adalah diagram untuk komponen pada fitur keranjang
 ### Keranjang Code diagram
 Untuk code diagram keranjang adalah sebagai berikut 
 ![codediagramkeranjang](<DeliverableSurya/codediagramkeranjang.png>)
+
+# Rating & Ulasan
+
+### Rating & Ulasan Component Diagram
+
+
+### Rating & Ulasan Code Diagram
+![codediagramratingulasan](DeliverableDafton/CodeDiagram_RatingUlasan.png)
