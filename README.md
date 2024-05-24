@@ -6,6 +6,8 @@
 ![Container Diagram](<DeliverableGameTime/image-1.png>)
 ## Deployment Diagram
 ![DeploymentDiagram](<DeliverableGameTime/image-2.png>)
+## Risk Storming
+![Risk Storming](DeliverableGameTime/image77.png)
 
 ## Keranjang
 
